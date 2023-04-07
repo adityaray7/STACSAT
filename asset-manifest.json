@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/STACSAT/static/css/main.60ebcf7a.chunk.css",
-    "main.js": "/STACSAT/static/js/main.e88a3a8a.chunk.js",
-    "main.js.map": "/STACSAT/static/js/main.e88a3a8a.chunk.js.map",
+    "main.css": "/STACSAT/static/css/main.45d95919.chunk.css",
+    "main.js": "/STACSAT/static/js/main.3083cf60.chunk.js",
+    "main.js.map": "/STACSAT/static/js/main.3083cf60.chunk.js.map",
     "runtime-main.js": "/STACSAT/static/js/runtime-main.3cae1f9a.js",
     "runtime-main.js.map": "/STACSAT/static/js/runtime-main.3cae1f9a.js.map",
     "static/js/2.fffed942.chunk.js": "/STACSAT/static/js/2.fffed942.chunk.js",
     "static/js/2.fffed942.chunk.js.map": "/STACSAT/static/js/2.fffed942.chunk.js.map",
     "index.html": "/STACSAT/index.html",
-    "static/css/main.60ebcf7a.chunk.css.map": "/STACSAT/static/css/main.60ebcf7a.chunk.css.map",
+    "static/css/main.45d95919.chunk.css.map": "/STACSAT/static/css/main.45d95919.chunk.css.map",
     "static/js/2.fffed942.chunk.js.LICENSE.txt": "/STACSAT/static/js/2.fffed942.chunk.js.LICENSE.txt",
     "static/media/cansat.5d001065.png": "/STACSAT/static/media/cansat.5d001065.png",
     "static/media/electronic.32ba21d7.jpg": "/STACSAT/static/media/electronic.32ba21d7.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.3cae1f9a.js",
     "static/js/2.fffed942.chunk.js",
-    "static/css/main.60ebcf7a.chunk.css",
-    "static/js/main.e88a3a8a.chunk.js"
+    "static/css/main.45d95919.chunk.css",
+    "static/js/main.3083cf60.chunk.js"
   ]
 }
